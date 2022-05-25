@@ -5,7 +5,7 @@ namespace Based\AssemblyAI;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
-class AssemblyServiceProvider extends PackageServiceProvider
+class AssemblyAIServiceProvider extends PackageServiceProvider
 {
     public function register()
     {
